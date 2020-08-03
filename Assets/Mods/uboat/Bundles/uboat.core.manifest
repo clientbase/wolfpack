@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 1406189719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ace2efde8460760e3df87608158e0eef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e7bdcc699e327d6b74b21b4b853de91e
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 109
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1651638530, guid: 40d4d80c2edb63f458d172b408dfec58, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardCoreForwardSimple.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardMeta.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityShaderVariables.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardBRDF.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityShadowLibrary.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Standard-CustomMesh.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardInput.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/LightingTemplate.hlsl
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Tessellation.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/AutoLight.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityInstancing.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityGlobalIllumination.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityGlobalIllumination.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/AddPass.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardCore.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardConfig.cginc
+- Assets/Packages/uboat.core/Manifest.asset
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Lighting.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/ShadowDispatch.hlsl
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/GLSLSupport.glslinc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardBRDF.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityCG.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Specular-AddPass.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardCoreForward.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardParticles.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/HLSLSupport.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/DeepStandardLib.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityPBSLighting.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Standard-AddPass.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Standard-Base.shader
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardInput.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityMetaPass.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/DeepStandard (Particle).shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardMeta.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Specular-FirstPass.shader
+- Assets/Packages/uboat.core/Shaders/DeepStandard/DeepStandard (Decal).shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Standard-FirstPass.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Specular-Base.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/FirstPass.shader
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardCoreForward.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardUtils.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityShaderUtilities.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityPBSLighting.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityLightingCommon.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/Standard-Heightmap.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnitySprites.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/DeepStandard.shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityImageBasedLighting.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardUtils.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/DeepStandard (Particle, Grazing
+  Angle Fade).shader
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityDeferredLibrary.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityShaderVariables.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityCG.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardCore.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/TerrainEngine.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/TerrainSplatmapCommon.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityStandardShadow.cginc
+- Assets/Packages/uboat.core/Shaders/DeepStandard/ShadowContext.hlsl
+- Assets/Packages/uboat.core/Shaders/DeepStandard/UnityStandardShadow.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityGBuffer.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityDeprecated.cginc
+- Assets/Packages/uboat.core/Shaders/Terrain/Splats/UnityCustomRenderTexture.cginc
+Dependencies: []

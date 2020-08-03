@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1924191502, guid: 4ecd51e397219794384b5682d0fabf54, type: 3}
+  m_Name: DeepPipelineAsset
+  m_EditorClassIdentifier: Assembly-CSharp:UBOOT.Game.Scene.Rendering:DeepPipelineAsset
+  finalPassShader: {fileID: 4800000, guid: 4855bcea124268248bd869b607beac4d, type: 3}
+  pointLightMesh: {fileID: 4300000, guid: ca5ad20b8c008467d85ab2152d0f67a9, type: 3}
+  spotLightMesh: {fileID: 4300000, guid: 93e85ba57f65145538a8ac97bd005d40, type: 3}
+  quadMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  boxMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  defaultSpotCookie: {fileID: 0}
+  deferredShader: {fileID: 4800000, guid: eaaecf10196db55439d4d47c42cfc867, type: 3}
+  deferredReflectionShader: {fileID: 4800000, guid: 94397ff8cae653b4d9eab02d68ef7d13,
+    type: 3}
+  shadowClearShader: {fileID: 4800000, guid: e3cab24f27741f44d8af1e94d006267c, type: 3}
+  cameraMotionVectorsShader: {fileID: 4800000, guid: 158b8ab7060acb3479607f1b1adae390,
+    type: 3}
+  deepPipelineMiscShader: {fileID: 4800000, guid: 46e4ed23c7b3d8f4ea5aae232fdfb0e9,
+    type: 3}
+  copyDepthBufferShader: {fileID: 4800000, guid: bd3f9508b7d600042b77f28ae1d2c2d0,
+    type: 3}
+  waterPipelineAsset: {fileID: 11400000, guid: f838e655a84fba74eb32e163624739af, type: 2}
+  uiLayerMask:
+    serializedVersion: 2
+    m_Bits: 536870944
+  clearColor: {r: 0, g: 0, b: 0, a: 1}
+  shadowInitParameters:
+    shadowAtlasWidth: 4096
+    shadowAtlasHeight: 4096
+    shadowMap16Bit: 0
+    maxPointLightShadows: 6
+    maxSpotLightShadows: 12
+    maxDirectionalLightShadows: 1
+  shadowSettings:
+    enabled: 1
+    maxShadowDistance: 1000
+    directionalLightNearPlaneOffset: 5

@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1651638530, guid: 40d4d80c2edb63f458d172b408dfec58, type: 3}
+  m_Name: Manifest
+  m_EditorClassIdentifier: 
+  containedAssets:
+  - path: Manifest
+    guid: a76d3384eed01374b98bfe1e497d800c
+  - path: Shaders/DeepStandard/DeepStandard (Decal)
+    guid: 222ce188a6b6212459aad3f9a1f99484
+  - path: Shaders/DeepStandard/DeepStandard (Particle)
+    guid: f0fb4777577a4fe45b0371fd32a3aa00
+  - path: Shaders/DeepStandard/DeepStandard (Particle, Grazing Angle Fade)
+    guid: 71176d1b9c808c044aeea5ebdc20e874
+  - path: Shaders/DeepStandard/DeepStandard
+    guid: 43ba9b4ad1bf818478f3316cc7a27f89
+  - path: Shaders/DeepStandard/DeepStandardLib
+    guid: 5da0a2e52cc155541bf21ebd3df155ab
+  - path: Shaders/DeepStandard/LightingTemplate
+    guid: 33340cb2b4b74844c8c556a1baf614aa
+  - path: Shaders/DeepStandard/ShadowContext
+    guid: 562490ee18d8e2f44b4e2a20129efed5
+  - path: Shaders/DeepStandard/ShadowDispatch
+    guid: 3c1854c4148b8b44a960e08fd0d3ffdb
+  - path: Shaders/DeepStandard/UnityCG
+    guid: 91eb2c0515ae9394783b6e604099b1b0
+  - path: Shaders/DeepStandard/UnityGlobalIllumination
+    guid: 43627b6396794c9448fe06dae1d2a420
+  - path: Shaders/DeepStandard/UnityPBSLighting
+    guid: 1421d506fa13ddd48845680dc3e81af8
+  - path: Shaders/DeepStandard/UnityShaderVariables
+    guid: 6ad5fa8cd49c1ec41b246b17b4af3f43
+  - path: Shaders/DeepStandard/UnityStandardBRDF
+    guid: 6bf04951152dc3747821760e645b72f5
+  - path: Shaders/DeepStandard/UnityStandardCore
+    guid: 2f5f8b9c47cb77c4db2da8205f75fb8a
+  - path: Shaders/DeepStandard/UnityStandardCoreForward
+    guid: f673b839228a14f42b8ee74a1b52c5c1
+  - path: Shaders/DeepStandard/UnityStandardInput
+    guid: 06bdb807d6b637d4b91228de75c70713
+  - path: Shaders/DeepStandard/UnityStandardMeta
+    guid: 7852b49005eec654fbd0e5d8dbd9769e
+  - path: Shaders/DeepStandard/UnityStandardParticles
+    guid: f6da93a52554a384ab35e511565da57c
+  - path: Shaders/DeepStandard/UnityStandardShadow
+    guid: 29345a7f4e500094599e4fc69c707c16
+  - path: Shaders/DeepStandard/UnityStandardUtils
+    guid: ad438afa869bcc944affc623a66390bd
+  - path: Shaders/Terrain/Splats/AddPass
+    guid: 79719c73740a1a548bb83634d43f8de7
+  - path: Shaders/Terrain/Splats/AutoLight
+    guid: 5e664023595edce49827c9678e9e0df7
+  - path: Shaders/Terrain/Splats/FirstPass
+    guid: 447a0b1997c28c9408f57bc4cf200484
+  - path: Shaders/Terrain/Splats/GLSLSupport
+    guid: 883620d4cb3621443adf0c284b07baf0
+  - path: Shaders/Terrain/Splats/HLSLSupport
+    guid: 97d4f6d5456027248abb7936768c80a5
+  - path: Shaders/Terrain/Splats/Lighting
+    guid: dc4c13c44629da94dbe1c7c2afc20d5b
+  - path: Shaders/Terrain/Splats/Specular-AddPass
+    guid: 8f7fa855f44d18f4b973e921d6a6e17a
+  - path: Shaders/Terrain/Splats/Specular-Base
+    guid: db470ce8070c1064aa24644d99e8544e
+  - path: Shaders/Terrain/Splats/Specular-FirstPass
+    guid: a5c7d0e7442b77640aa98dc3148c4099
+  - path: Shaders/Terrain/Splats/Standard-AddPass
+    guid: 3f3690b6255218a40ac90595de8143ba
+  - path: Shaders/Terrain/Splats/Standard-Base
+    guid: 2a8e1df67ed1c0840885b9c19dcc6071
+  - path: Shaders/Terrain/Splats/Standard-CustomMesh
+    guid: b1cd34c11070c904c9e613062ed2bcba
+  - path: Shaders/Terrain/Splats/Standard-FirstPass
+    guid: 49dc65a8bffadd342bb20fbdcbc0ddcc
+  - path: Shaders/Terrain/Splats/Standard-Heightmap
+    guid: 6f053a0af4fb863489a6466bc6de4513
+  - path: Shaders/Terrain/Splats/TerrainEngine
+    guid: d9c0112d30b43f14cb9923246b908520
+  - path: Shaders/Terrain/Splats/TerrainSplatmapCommon
+    guid: b67e126dc9ff0e743b04af8bee06fa0f
+  - path: Shaders/Terrain/Splats/Tessellation
+    guid: d48205038252c2d468ccc0a39e9016a3
+  - path: Shaders/Terrain/Splats/UnityCG
+    guid: 85ce899c36e404c4a90f5450ec70ea30
+  - path: Shaders/Terrain/Splats/UnityCustomRenderTexture
+    guid: 9c1d29ff41947eb4d878ca71d66f24f0
+  - path: Shaders/Terrain/Splats/UnityDeferredLibrary
+    guid: 7ed9abfbb00739145a1fe288ffeee441
+  - path: Shaders/Terrain/Splats/UnityDeprecated
+    guid: 8238dcefb2e37744e89fc7147cf05a84
+  - path: Shaders/Terrain/Splats/UnityGBuffer
+    guid: b923cf7fb3a46fc4a9ee8ff4f798d470
+  - path: Shaders/Terrain/Splats/UnityGlobalIllumination
+    guid: 1afd3b63e5299bd4488c1819030fa991
+  - path: Shaders/Terrain/Splats/UnityImageBasedLighting
+    guid: 35281cea18a4eaa49b4f84f32b5e6cca
+  - path: Shaders/Terrain/Splats/UnityInstancing
+    guid: 4783f743ab58cbe4997dabed2b2ffda4
+  - path: Shaders/Terrain/Splats/UnityLightingCommon
+    guid: dac0b90ae39fc8b479856c3408e5db9f
+  - path: Shaders/Terrain/Splats/UnityMetaPass
+    guid: f046cb471c3e31e40ad0837e70db0dfe
+  - path: Shaders/Terrain/Splats/UnityPBSLighting
+    guid: 151cd70abde63d14a9a99f97e5f5103d
+  - path: Shaders/Terrain/Splats/UnityShaderUtilities
+    guid: b225b4c9870ea3f4ba163b16ef0fd8e8
+  - path: Shaders/Terrain/Splats/UnityShaderVariables
+    guid: 74079b31d7a65954e99461b82d21af65
+  - path: Shaders/Terrain/Splats/UnityShadowLibrary
+    guid: 64b458a1602c67d46aa7156579d47180
+  - path: Shaders/Terrain/Splats/UnitySprites
+    guid: d6f50c0aa046d654da1904d9184dc733
+  - path: Shaders/Terrain/Splats/UnityStandardBRDF
+    guid: 2b676af47b150fb43a17a27340338471
+  - path: Shaders/Terrain/Splats/UnityStandardConfig
+    guid: 0d9a9c449da88a04496889398debc437
+  - path: Shaders/Terrain/Splats/UnityStandardCore
+    guid: fb6656f3e9f82dd46ac7b3fccb795b6c
+  - path: Shaders/Terrain/Splats/UnityStandardCoreForward
+    guid: 6e037895225015e4c96d08315f22c452
+  - path: Shaders/Terrain/Splats/UnityStandardCoreForwardSimple
+    guid: bf36c450afc3e7749879ce2300b2a7fd
+  - path: Shaders/Terrain/Splats/UnityStandardInput
+    guid: 4a0af1120b758594f8069976ff32e91d
+  - path: Shaders/Terrain/Splats/UnityStandardMeta
+    guid: 04b5d197a9a2a5f45adea827860bab85
+  - path: Shaders/Terrain/Splats/UnityStandardShadow
+    guid: 23d4f6add0a564e4bae50432f2127b88
+  - path: Shaders/Terrain/Splats/UnityStandardUtils
+    guid: 8da10199fe0a98a458e29868cc81429f

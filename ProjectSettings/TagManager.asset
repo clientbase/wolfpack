@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - World-Space Canvas
+  - Screen-Space Canvas
+  - Selection Light
+  - Wheel Menu
+  - Action Marker
+  - Portrait Camera
+  - Sun
+  - Portraits Light
+  - Ship Canvas
+  - explosion
+  - Smoke Spot
+  - Portraits Anchor
+  - Environment Reflection Probe
+  - Audio Scene
+  - Subtitles
+  - Subtitles Source Name
+  - Unserializable
+  - Static Transform
+  - Indestructible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - World 3D GUI
+  - U-Boat Exterior
+  - Interior
+  - Agents and Character Colliders | FORWARD LIGHT
+  - Hidden Interior
+  - Undetected Ships
+  - External Location
+  - Entities and Ragdolls
+  - Outlines and Sound Occluders
+  - Tanks
+  - Exterior People and Equipment
+  - External Location 2
+  - Damage Colliders and Water Volumes
+  - Temp Layer
+  - Shells and Time of Day - Clouds
+  - Static Interior
+  - Crew Triggers
+  - Visual Occluders
+  - Ship Hover Colliders
+  - Global Space, Crew Triggers
+  - Weather and Post-processing
+  - Interior 3D GUI
+  - Free | Floors
+  - Reflection Occluders
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Segments 1
+    uniqueID: 3161469017
+    locked: 0
+  - name: Segments 2
+    uniqueID: 3998150255
+    locked: 0
